@@ -8,7 +8,7 @@
    ### ⚒️ &nbsp; Languages and Tools :
 
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,git&perline=8)](https://skillicons.dev)
 
 ### 🔥 &nbsp; My Stats :
 
