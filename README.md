@@ -1,7 +1,7 @@
 
 
 - 🌱 I’m currently learning **DSA**
-- 📫 How to reach me: &nbsp; ![Static Badge](https://img.shields.io/badge/Pramay-Wankhade?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=[https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpramaywankhade%2F](https://www.linkedin.com/in/pramaywankhade/))
+- 📫 How to reach me: &nbsp; ![Static Badge](https://img.shields.io/badge/Pramay-Wankhade?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue&link=https://www.linkedin.com/in/pramaywankhade/)
 
 
 
