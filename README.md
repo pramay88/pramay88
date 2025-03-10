@@ -1,7 +1,9 @@
 
 
 - 🌱 I’m currently learning **DSA**
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Pramay_Wankhade-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramay-wankhade)
+- 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/pramay-wankhade" target="_blank">
+  <img src="https://img.shields.io/badge/-Pramay_Wankhade-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
 
 
 ---
