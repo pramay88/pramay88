@@ -1,17 +1,29 @@
-
-
+# 💡 About Me:
 - 🌱 I’m currently learning **DSA**
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Pramay_Wankhade-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramay-wankhade)
 
 
+
+## 🌐 Socials:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/pramay-wankhade) &nbsp;
+[![email](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:pramaywankhade7@gmail.com) &nbsp;
+[![email](https://img.icons8.com/?size=50&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/pramaywankhade7/) &nbsp;
+
+# 💻 Languages & Tools:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,html,css,javascript,anaconda&perline=6)](https://skillicons.dev)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pramay88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pramay88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pramay88&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pramay88&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pramay88&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-   ### ⚒️ &nbsp; Languages and Tools :
+[![](https://visitcount.itsvg.in/api?id=pramay88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,git,html,css,javascript&perline=8)](https://skillicons.dev)
-
-### 🔥 &nbsp; My Stats :
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pramay88&hide=issues&show_icons=true&hide_border=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramay88&size_weight=1&count_weight=0&includeForks=true&layout=compact&hide_border=true&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
