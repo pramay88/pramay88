@@ -9,7 +9,7 @@
 [![email](https://img.icons8.com/?size=50&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/pramaywankhade7/) &nbsp;
 
 # 💻 Languages & Tools:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,html,css,javascript,anaconda,flask&perline=6)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,html,css,javascript,react,nodejs,anaconda,flask&perline=6)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pramay88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
