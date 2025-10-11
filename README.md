@@ -1,19 +1,19 @@
-## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/pramay-wankhade) &nbsp;
-[![email](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:pramaywankhade7@gmail.com) &nbsp;
-[![email](https://img.icons8.com/?size=50&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/pramaywankhade7/) &nbsp;
+### ***HI, I'm Pramay***
+</br>
+
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e4a1a5d4-a32c-4000-bab7-f7d3795a4e94" />
+
 
 # 💻 Languages & Tools:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,javascript,react,nodejs,mongodb,firebase&perline=6)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,javascript,react,nodejs,nextjs,mongodb,firebase&perline=6)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pramay88&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <p></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pramay88&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pramay88&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pramay88&icon=0&color=0)](https://visitcount.itsvg.in)
 
+#### ***📬 Find Me***
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/pramay-wankhade) &nbsp;
+[![email](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:pramaywankhade7@gmail.com) &nbsp;
+[![email](https://img.icons8.com/?size=50&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/pramaywankhade7/) &nbsp;
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
