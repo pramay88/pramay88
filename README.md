@@ -6,7 +6,7 @@
 
 
 # 💻 Languages & Tools:
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,github,html,css,javascript,react,nodejs,nextjs,mongodb,firebase&perline=6)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,github,html,css,javascript,react,nodejs,nextjs,mongodb&perline=6)
 
 
 ---
