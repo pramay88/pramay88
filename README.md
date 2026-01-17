@@ -11,9 +11,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pramay88&icon=0&color=0)](https://visitcount.itsvg.in)
-
-#### ***📬 Find Me***
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://linkedin.com/in/pramay-wankhade) &nbsp;
-[![email](https://skillicons.dev/icons?i=gmail&perline=1)](mailto:pramaywankhade7@gmail.com) &nbsp;
-[![email](https://img.icons8.com/?size=50&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/pramaywankhade7/) &nbsp;
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
