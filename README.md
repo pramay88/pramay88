@@ -13,3 +13,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pramay88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+## 🚀 Check Them Out
+
+[![Share Anywhere](https://img.shields.io/badge/Share_Anywhere-Live-2ea44f?style=for-the-badge)](https://share-anywhere.vercel.app/)
+[![ContestX](https://img.shields.io/badge/ContestX-Live-0969da?style=for-the-badge)](https://contestx.vercel.app/)
