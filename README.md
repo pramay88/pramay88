@@ -80,14 +80,24 @@ Computer Science undergraduate interested in Software Development, Data Structur
 
 
 
-## 🚀 Check Them Out  
 
-[![Share-Anywhere](https://img.shields.io/badge/Share--Anywhere-EA580C?style=flat&logo=vercel&logoColor=white)](https://share-anywhere.vercel.app/)
-[![ContestX](https://img.shields.io/badge/ContestX-6B46C1?style=flat&logo=vercel&logoColor=white)](https://contestx.vercel.app/)
+## 🚀 Check Them Out
 
+<a href="https://share-anywhere.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share--Anywhere-EA580C?style=flat&logo=vercel&logoColor=white" alt="Share-Anywhere"/>
+</a>
+<a href="https://contestx.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/ContestX-6B46C1?style=flat&logo=vercel&logoColor=white" alt="ContestX"/>
+</a>
 
 ## 🔗 Find me here
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramay-wankhade)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pramaywankhade7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://pramaywankhade.vercel.app)
+<a href="https://linkedin.com/in/pramay-wankhade" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:pramaywankhade7@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://pramaywankhade.vercel.app" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
